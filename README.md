@@ -1,8 +1,8 @@
-## RiskThinking.AI 
-Work Assement for UI/UX developer position at RiskThinking.AI
+## RiskThinking .AI Assessment
+Assessment for UI/UX developer position at RiskThinking.AI
 
 ## Deployed on Vercel
-[Production Build](https://risk-viz-one.vercel.app/)
+[Production Build](https://master-risk-data.vercel.app)
 
 ## Technologies
 - NextJS  (Base Framework)
